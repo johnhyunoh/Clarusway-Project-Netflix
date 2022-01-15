@@ -9,11 +9,8 @@ body {
 }
 
 #container {
-    background-color: black;
+    background-color: rgba(0, 0, 0, .5);
     margin: 30px 100px;
-    height: 300px;
-    width: 500px;
-    margin-left: 35%;
 }
 
 #title {
